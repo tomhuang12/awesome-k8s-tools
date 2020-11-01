@@ -16,28 +16,31 @@ Idea taken from [donnemartin/awesome-aws](https://github.com/donnemartin/awesome
 
 
 ## Contents
-- [Tools and Libraries](#tools-and-libraries)
-  - [Command Line Tools](#command-line-tools)
-  - [Cluster Provisioning](#cluster-provisioning)
-  - [Automation and CI/CD](#automation-and-cicd)
-  - [Cluster Resources Management](#cluster-resources-management)
-  - [Secrets Management](#secrets-management)
-  - [Networking](#networking)
-  - [Storage](#storage)
-  - [Testing and Troubleshooting](#testing-and-troubleshooting)
-  - [Monitoring, Alerts, and Visualization](#monitoring-alerts-and-visualization)
-  - [Backup and Restore](#backup-and-restore)
-  - [Security and Compliance](#security-and-compliance)
-  - [Service Mesh](#service-mesh)
-  - [Development Tools](#development-tools)
-  - [Data Processing and Machine Learning](#data-processing-and-machine-learning)
-  - [Miscellaneous](#miscellaneous)
-- [Guides, Documentations, Blogs, and Learnings](#guides-documentations-blogs-and-learnings)
-  - [Guides](#guides)
-  - [Blogs and Videos](#blogs-and-videos)
-  - [Learnings and Documentations](#learnings-and-documentations)
-- [Contribute](#contribute)
-- [License](#license)
+- [Awesome Kubernetes Resources ![Awesome](https://awesome.re)](#Awesome-Kubernetes-Resources-Awesomehttpsawesomere)
+  - [The Fiery Meter of Awesomeness](#The-Fiery-Meter-of-Awesomeness)
+  - [Contents](#Contents)
+  - [Tools and Libraries](#Tools-and-Libraries)
+    - [Command Line Tools](#Command-Line-Tools)
+    - [Cluster Provisioning](#Cluster-Provisioning)
+    - [Automation and CI/CD](#Automation-and-CICD)
+    - [Cluster Resources Management](#Cluster-Resources-Management)
+    - [Secrets Management](#Secrets-Management)
+    - [Networking](#Networking)
+    - [Storage](#Storage)
+    - [Testing and Troubleshooting](#Testing-and-Troubleshooting)
+    - [Monitoring, Alerts, and Visualization](#Monitoring-Alerts-and-Visualization)
+    - [Backup and Restore](#Backup-and-Restore)
+    - [Security and Compliance](#Security-and-Compliance)
+    - [Service Mesh](#Service-Mesh)
+    - [Development Tools](#Development-Tools)
+    - [Data Processing and Machine Learning](#Data-Processing-and-Machine-Learning)
+    - [Miscellaneous](#Miscellaneous)
+  - [Guides, Documentations, Blogs, and Learnings](#Guides-Documentations-Blogs-and-Learnings)
+    - [Guides](#Guides)
+    - [Blogs and Videos](#Blogs-and-Videos)
+    - [Learnings and Documentations](#Learnings-and-Documentations)
+  - [Contribute](#Contribute)
+  - [License](#License)
 
 
 ## Tools and Libraries
@@ -253,6 +256,8 @@ Items with :green_heart: indicate open source projects.
 - [Kubectl Kubernetes CheatSheet](https://github.com/dennyzhang/cheatsheet-kubernetes-A4) - A cheatsheet containing many helpful kubectl commands
 - [Ready-to-use commands and tips for kubectl](https://medium.com/flant-com/kubectl-commands-and-tips-7b33de0c5476)
 - [Certified Kubernetes Security Specialist - CKSS](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam.
+- [Kubernetes in a visual way, with sketchnotes](https://dev.to/aurelievache/kubernetes-sketchnotes-pods-4ib0) - A serie of articles explaining visually in sketchnotes Kubernetes concepts, components and tools with useful examples.
+- [Tips about Certified Kubernetes Application Developers (CKAD) exam](https://dev.to/aurelievache/tips-about-certified-kubernetes-application-developers-ckad-exam-287g) - Tips & tricks about how to pass the CKAD examen
 
 ## Contribute
 
